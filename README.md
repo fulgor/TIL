@@ -17,6 +17,7 @@ A collection of notes on small things I learn on a day by day basis on topics wi
 ### GitHub
 
 - [Add A License To A GitHub-Repo](github/add-a-license-to-a-github-repo.md)
+- [Adressing Anchors in GitHub Markdown](github/adressing-anchors-in-github-markdown.md)
 
 ### Plone
 
