@@ -1,8 +1,5 @@
 # TIL
-Today I Learend
-# TIL
-
-> Today I Learned
+**Today I Learend**
 
 A collection of notes on small things I learn on a day by day basis on topics with a tchnological bias. These notes are to small for a blog post. 
 
@@ -19,12 +16,12 @@ A collection of notes on small things I learn on a day by day basis on topics wi
 
 ### GitHub
 
-- [Add A License To A GitHub-Repo](add-a-license-to-a-github-repo.md)
+- [Add A License To A GitHub-Repo](github/add-a-license-to-a-github-repo.md)
 
 ### Plone
 
-- [Edit HTML-Code in WYSIWYG Editor](plone-edit-html-code-in-wysiwyg-editor.md)
-- [Start Stop Plone on localhost](start-stop-plone-on-localhost.md)
+- [Edit HTML-Code in WYSIWYG Editor](plone/plone-edit-html-code-in-wysiwyg-editor.md)
+- [Start Stop Plone on localhost](plone/start-stop-plone-on-localhost.md)
 
 ## Workflow
 
