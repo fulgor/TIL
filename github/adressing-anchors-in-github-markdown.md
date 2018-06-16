@@ -1,10 +1,20 @@
 # Adressing Anchors in GitHub Markdown
 
-To create an anchor to a heading in github flavored markdown. Add `-` characters between each word in the heading and wrap the value in parens (#some-markdown-heading) so your link should look like this:
+This is how you create an anchor to a heading in github flavored md-file.
 
-> `[create an anchor](#anchors-in-markdown)`
+Example-heading looks like
+> `## My Heading`
 
-But dots are omitted:
+To create anchor-link:
+* make it lower-case,
+* change spaces to `-`-characters and 
+* wrap the value in brackets (#my-heading)
+
+Thus, your link should look like this:
+
+> `[Linktext](#my-heading)`
+
+Oh, one more rule: dots are omitted:
 
 `Python Script bjmd.py` is `#python-script-bjmdpy`
 
