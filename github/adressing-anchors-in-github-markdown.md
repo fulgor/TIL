@@ -21,5 +21,8 @@ Special characters are omitted:
 
 `## How about §$%&()=?+* ?` is `(#how-about--)`
 
+* [See Example for "How about §$%.:&()=?+* ?"](#how-about--)
+
+
 ## See also
 * https://guides.github.com/features/mastering-markdown/
