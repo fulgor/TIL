@@ -1,7 +1,5 @@
 # Adressing Anchors in GitHub Markdown
 
-## How about §$%&()=?+* ?
-
 This is how you create an anchor to a heading in github flavored md-file.
 
 Example-heading looks like
@@ -16,9 +14,12 @@ Thus, your link should look like this:
 
 > `[Linktext](#my-heading)`
 
-Oh, one more rule: dots are omitted:
+## How about §$%.:&()=?+* ?
+Only `[a-z0-9-]` are possible.
 
-`## Python Script bjmd.py` is `(#python-script-bjmdpy)`
+Special characters are omitted:
+
+`## How about §$%&()=?+* ?` is `(#how-about--)`
 
 ## See also
 * https://guides.github.com/features/mastering-markdown/
