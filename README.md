@@ -8,6 +8,7 @@ A collection of notes on small things I learn on a day by day basis on topics wi
 
 - [GitHub](#github)
 - [Plone](#plone)
+- [Python](#python)
 - [Workflow](#workflow)
 - [About](#about)
 - [License](#license)
@@ -23,6 +24,11 @@ A collection of notes on small things I learn on a day by day basis on topics wi
 
 - [Edit HTML-Code in WYSIWYG Editor](plone/plone-edit-html-code-in-wysiwyg-editor.md)
 - [Start Stop Plone on localhost](plone/start-stop-plone-on-localhost.md)
+
+### Python
+
+- [Get Days of February in Python](python/get-days-of-february-in-python.md)
+
 
 ## Workflow
 
