@@ -9,13 +9,12 @@
 
 Only `[a-z0-9-]` are allowed.
 
-Thus, take heading and:
+Thus, take the heading and:
 * make it lower-case,
 * change spaces to `-`-characters,
 * delete every other character and 
 * wrap the value in brackets `()`
-
-Thus, your link should look like this:
+Your link should look like this:
 
 > `[Linktext](#my-heading)`
 
