@@ -2,13 +2,11 @@
 
 **This is how you create an anchor to a heading in a github flavored md-file.**
 
-* [See Example for "How about §$%.:&()=?+* ?"](#how-about--)
-
----
 **Heading:**
 > `## My Heading!!`
 
 **Anchor:**
+
 Only `[a-z0-9-]` are allowed.
 
 Thus, take heading and:
