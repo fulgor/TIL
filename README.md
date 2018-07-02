@@ -23,7 +23,7 @@ A collection of notes on small things I learn on a day by day basis on topics wi
 
 ### Inkscape
 
-- [Howto Convert RGB-pdf To CMYK-pdf](inkscsape/howto-convert-rgb-pdf-to-cmyk-pdf.md)
+- [Howto Convert RGB-pdf To CMYK-pdf](inkscape/howto-convert-rgb-pdf-to-cmyk-pdf.md)
 
 ### Plone
 
