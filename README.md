@@ -7,9 +7,9 @@ A collection of notes on small things I learn on a day by day basis on topics wi
 ## Categories
 
 - [GitHub](#github)
+- [Inkscape](#inkscape)
 - [Plone](#plone)
 - [Python](#python)
-- [Workflow](#workflow)
 - [About](#about)
 - [License](#license)
 - [Other TIL Collections](#other-til-collections)
@@ -20,6 +20,11 @@ A collection of notes on small things I learn on a day by day basis on topics wi
 - [Add A License To A GitHub-Repo](github/add-a-license-to-a-github-repo.md)
 - [Adressing Anchors in GitHub Markdown](github/adressing-anchors-in-github-markdown.md)
 
+
+### Inkscape
+
+- [Howto Convert RGB-pdf To CMYK-pdf](inkscsape/howto-convert-rgb-pdf-to-cmyk-pdf.md)
+
 ### Plone
 
 - [Edit HTML-Code in WYSIWYG Editor](plone/plone-edit-html-code-in-wysiwyg-editor.md)
@@ -29,10 +34,6 @@ A collection of notes on small things I learn on a day by day basis on topics wi
 
 - [Get Days of February in Python](python/get-days-of-february-in-python.md)
 
-
-## Workflow
-
-- still empty
 
 ## About
 
