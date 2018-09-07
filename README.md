@@ -19,6 +19,7 @@ A collection of notes on small things I learn on a day by day basis on topics wi
 
 - [Add A License To A GitHub-Repo](github/add-a-license-to-a-github-repo.md)
 - [Adressing Anchors in GitHub Markdown](github/adressing-anchors-in-github-markdown.md)
+- [Reference A GitHub-Issue In A Commit](github/reference-a-github-issue-in-a-commit.md)
 
 
 ### Inkscape
