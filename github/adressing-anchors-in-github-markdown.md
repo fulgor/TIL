@@ -7,7 +7,7 @@
 
 **Anchor:**
 
-Only `[a-z0-9-]` are allowed.
+Only `[0-9a-zäöü-]` are allowed.
 
 Thus, take the heading and:
 * make it lower-case,
