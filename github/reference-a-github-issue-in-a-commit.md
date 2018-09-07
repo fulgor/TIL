@@ -1,5 +1,5 @@
 # Reference A GitHub-Issue In A Commit
-reference-a-github-issue-in-a-commit
+
 - When creating a *new commit* to a file on GitHub, you may reference to an issue adressing that commit. 
 - Just add a hashtag and the issue's number '#2' to create a link: #2
 - Adding the keyword 'fix' to it automatically closes the issue.
