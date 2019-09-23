@@ -6,6 +6,7 @@ A collection of notes on small things I learn on a day by day basis on topics wi
 
 ## Categories
 
+- [Android](#android)
 - [GitHub](#github)
 - [Inkscape](#inkscape)
 - [Plone](#plone)
@@ -13,6 +14,12 @@ A collection of notes on small things I learn on a day by day basis on topics wi
 - [About](#about)
 - [License](#license)
 - [Other TIL Collections](#other-til-collections)
+
+
+### Android
+
+- [Activate Developer Mode on Android](android/activate-developer-mode-on-android.md))
+- [Enable File Transfer When Connecting Android Phone With Laptop](android/enable-file-transfer-when-connecting-android-phone-with-laptop.md)
 
 
 ### GitHub
