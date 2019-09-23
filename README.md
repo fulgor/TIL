@@ -18,7 +18,7 @@ A collection of notes on small things I learn on a day by day basis on topics wi
 
 ### Android
 
-- [Activate Developer Mode on Android](android/activate-developer-mode-on-android.md))
+- [Activate Developer Mode on Android](android/activate-developer-mode-on-android.md)
 - [Enable File Transfer When Connecting Android Phone With Laptop](android/enable-file-transfer-when-connecting-android-phone-with-laptop.md)
 
 
@@ -56,6 +56,6 @@ Inspired by [Josh Branchaud jbranchaud](https://github.com/jbranchaud/til), who 
 
 ## License
 
-&copy; 2018
+&copy; 2018, 2019
 
 This repository is licensed under the MIT license. See `LICENSE` for details.
