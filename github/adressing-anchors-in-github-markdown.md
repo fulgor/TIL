@@ -19,4 +19,5 @@ Your link should look like this:
 > `[Linktext](#my-heading)`
 
 ## See also
+* [Link By Reference In GitHub Markdown](https://github.com/fulgor/TIL/blob/master/github/link-by-reference-in-github-markdown.md)
 * https://guides.github.com/features/mastering-markdown/
