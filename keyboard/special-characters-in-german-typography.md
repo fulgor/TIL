@@ -8,7 +8,7 @@ Special characters may be written by entering their Unicode. To enter Unicode co
 |  Character  |  Linux            |  macOS          |  Windows  |  Unicode dec.  |  Unicode hex. |  Note  |
 |-------------|-------------------|-----------------|-----------|----------------|---------------|--------|
 |  apostrophe: **&#x2019;** | `Alt Gr+Shift+N`  | `Opt.+Shift+#`  |   |  8217    |  0x2019       | Apostroph |
-|  apostrophe substitute: **&#x2027;** | `Shift+#`  | `Shift+#` | `Shift+#` |  0039  |  0x0027  |  Hochkomma |
+|  apostrophe substitute: **&#x0027;** | `Shift+#`  | `Shift+#` | `Shift+#` |  0039  |  0x0027  |  Hochkomma |
 |  dash: **&#x00d7;**  | `Alt Gr+,`  |  |  |  0215  |  0x00d7  | Gedankenstrich |
 |  ellipsis: **&#x2026;** | `Alt Gr+.`  | `Opt.+,` |  |  8230  |  0x2026  | Auslassungspunkte |
 |  multiplication sign: **&#x00d7;**  | `Alt Gr+,`  |  |  |  0215  |  0x00d7  | Malzeichen |
