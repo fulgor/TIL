@@ -10,6 +10,7 @@ A collection of notes on small things I learn on a day by day basis on topics wi
 - [GitHub](#github)
 - [Inkscape](#inkscape)
 - [Keyboard](#keyboard)
+- [PHP](#php)
 - [Plone](#plone)
 - [Python](#python)
 - [About](#about)
@@ -39,6 +40,11 @@ A collection of notes on small things I learn on a day by day basis on topics wi
 ### Keyboard
 
 - [Special Characters In German Typography](keyboard/special-characters-in-german-typography.md)
+
+
+### PHP
+
+- [Line Breaks Work Only In Double Quotation Marks](php/line-breaks-work-only-in-double-quotation-marks.md)
 
 
 ### Plone
